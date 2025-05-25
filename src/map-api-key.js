@@ -1,1 +1,1 @@
-export const googleMapApiKey = ''
+export const googleMapApiKey = ''  // it's value should be taken from google map api key.
